@@ -7,7 +7,7 @@ while True:
             break
         else:
 
-            print(int(x) ** 2 +1 )
+            print(int(x) ** 2  )
     except:
         print('please enter numeric value')
 
